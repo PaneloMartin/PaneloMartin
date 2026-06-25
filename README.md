@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Martin Panelo 👋
 
-<!--
-**PaneloMartin/PaneloMartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Geophysicist transitioning into **Data Analytics**, **Machine Learning**, and **Scientific Computing**.
 
-Here are some ideas to get you started:
+I enjoy solving real-world problems through data and analytical thinking. My background combines geoscience, scientific computing, and technical consulting in the energy industry. I'm currently expanding my skills in Python, SQL, Power BI, and Machine Learning while building end-to-end data projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🌎 Geophysicist with international experience in the energy industry
+- 📊 Transitioning into Data Analytics and Machine Learning
+- 🧠 Passionate about scientific computing and data-driven problem solving
+- 🚀 Building a professional portfolio focused on real-world analytics projects
+
+## 🛠 Tech Stack
+
+- Python
+- SQL
+- Power BI
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-Learn
+- Git & GitHub
+
+## 🚀 Currently Working On
+
+- End-to-end Data Analytics projects
+- Machine Learning applications
+- Interactive dashboards with Power BI
+- Scientific Computing
+
+## 📫 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/martinpanelo
+
+---
+
+> *"Continuous learning, curiosity, and solving meaningful problems through data."*
